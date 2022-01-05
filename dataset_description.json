@@ -1,18 +1,18 @@
 {
     "Name": "multibandACQtests",
     "BIDSVersion": "1.1.0",
-    "License": "PDDL",
+    "License": "CC0",
     "Authors": [
-        "Joset A. Etzel", 
+        "Joset A. Etzel",
         "Debbie Yee",
-		"Bidhan Lamichhane",
-		"Mitchell Jeffers",
-		"Elisa Di Rosa",
-		"Jenny Crawford",
-		"Hongyu An",
+        "Bidhan Lamichhane",
+        "Mitchell Jeffers",
+        "Elisa Di Rosa",
+        "Jenny Crawford",
+        "Hongyu An",
         "Todd S. Braver"
     ],
-	"Acknowledgements": "We thank Abraham Snyder, Aaron Tanenbaum, and Alexander Kizhner for assistance.",
+    "Acknowledgements": "We thank Abraham Snyder, Aaron Tanenbaum, and Alexander Kizhner for assistance.",
     "Funding": [
         "This research was supported by NIH R37MH066078 and NIH R21AG058206 to Todd Braver.",
         "This research was supported by NIH NINDS 1P30NS098577 to Hongyu An.",
@@ -22,5 +22,5 @@
         "http://ccpweb.wustl.edu/",
         "https://www.mir.wustl.edu/research/research-support-facilities/center-for-clinical-imaging-research-ccir"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds001399.v1.0.1"
+    "DatasetDOI": "doi:10.18112/openneuro.ds001399.v1.0.2"
 }
