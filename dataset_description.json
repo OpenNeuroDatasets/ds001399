@@ -1,18 +1,18 @@
 {
     "Name": "multibandACQtests",
     "BIDSVersion": "1.1.0",
-    "License": "CC0",
+    "License": "PDDL",
     "Authors": [
-        "Joset A. Etzel",
+        "Joset A. Etzel", 
         "Debbie Yee",
-        "Bidhan Lamichhane",
-        "Mitchell Jeffers",
-        "Elisa Di Rosa",
-        "Jenny Crawford",
-        "Hongyu An",
+		"Bidhan Lamichhane",
+		"Mitchell Jeffers",
+		"Elisa Di Rosa",
+		"Jenny Crawford",
+		"Hongyu An",
         "Todd S. Braver"
     ],
-    "Acknowledgements": "Abraham Snyder, Aaron Tanenbaum, Alexander Kizhner",
+	"Acknowledgements": "We thank Abraham Snyder, Aaron Tanenbaum, and Alexander Kizhner for assistance.",
     "Funding": [
         "This research was supported by NIH R37MH066078 and NIH R21AG058206 to Todd Braver.",
         "This research was supported by NIH NINDS 1P30NS098577 to Hongyu An.",
