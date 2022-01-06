@@ -1,0 +1,13 @@
+{
+    "age": {
+        "Description": "age of the participant. Participants were between 20 and 40 years old.",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "m": "male",
+            "f": "female"
+        }
+    }
+}
