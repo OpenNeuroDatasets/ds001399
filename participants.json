@@ -1,7 +1,10 @@
 {
     "age": {
-        "Description": "age of the participant. Participants were between 20 and 40 years old.",
-        "Units": "years"
+        "Description": "age of the participant.",
+        "Levels": {
+            "YA": "younger adult, 20-40 years old",
+            "OA": "older adult, 60-80 years old"
+        }
     },
     "sex": {
         "Description": "sex of the participant as reported by the participant",
