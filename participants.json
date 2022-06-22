@@ -1,6 +1,6 @@
 {
-    "age": {
-        "Description": "age of the participant.",
+    "group": {
+        "Description": "age group of the participant.",
         "Levels": {
             "YA": "younger adult, 20-40 years old",
             "OA": "older adult, 60-80 years old"
