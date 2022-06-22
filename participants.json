@@ -6,6 +6,12 @@
             "OA": "older adult, 60-80 years old"
         }
     },
+	"species": {
+        "Description": "species of the participant.",
+        "Levels": {
+            "homo sapiens": "homo sapiens"
+        }
+    },
     "sex": {
         "Description": "sex of the participant as reported by the participant",
         "Levels": {
